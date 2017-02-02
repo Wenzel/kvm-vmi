@@ -18,9 +18,11 @@ enum syscall_type {
 };
 
 struct event {
-    bool present;
-   enum syscall_direction direction;
-   enum syscall_type type;
+	bool present;
+	enum syscall_direction direction;
+	enum syscall_type type;
+	struct kvm_regs regs;
+	struct kvm_sregs sregs;
 };
 
 struct nitro_vcpus{
