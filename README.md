@@ -2,6 +2,12 @@
 
 KVM-based Virtual Machine Instrospection.
 
+# New repo
+
+This repository is not maintained anymore.
+
+An organization dedicated to bring VMI to KVM has been created on Github: [KVM-VMI](https://github.com/KVM-VMI/kvm-vmi)
+
 # Description
 
 This project add virtual machine introspection to the KVM hypervisor source code
