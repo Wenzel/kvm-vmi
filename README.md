@@ -33,5 +33,5 @@ build. You will have to compile and install a new kernel along with the new modu
 # References
 
 Based on the work of `Jonas Pfoh`:
-- [Nitro: Hardware-based System Call Tracing for Virtual Machines](https://www.sec.in.tum.de/assets/staff/pfoh/PfohSchneider2011a.pdf)
+- [Nitro: Hardware-based System Call Tracing for Virtual Machines](https://www.sec.in.tum.de/i20/publications/nitro-hardware-based-system-call-tracing-for-virtual-machines/@@download/file/PfohSchneider2011a.pdf)
 - [Nitro - VMI Extensions for Linux/KVM](http://nitro.pfoh.net/)
